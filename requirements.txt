@@ -1,0 +1,10 @@
+PyQt5==5.15.9
+numpy==1.24.3
+trimesh==4.0.0
+Pillow==10.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==2.3.0
+scipy==1.11.2
+opencv-python==4.8.0.76
+reportlab==4.0.7
